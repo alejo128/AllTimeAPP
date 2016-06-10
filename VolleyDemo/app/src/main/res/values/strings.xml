@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">All Time</string>
+    <string name="action_settings">Settings</string>
+    <string name="test">Test text string</string>
+    <string name="nombre">Large Text</string>
+    <string-array name="locales">
+        <item>Drogas La Rebaja Sede Poblado \nTelefono:(4) 604 1313 \nDireccion: Av Poblado num 42 85\nHorarios: Lunes a Sabado 7:30am a 9pm, Domingos 8am a 8pm</item>
+        <item>Drogas La Rebaja Sede Aguacatala\nTelefono:(4) 604 1313\nDireccion: Cl 15 Sur num 46 120 Local 107\nHorarios: Lunes a Sabado 7:30am a 9:30pm, Domingo 9am a 8pm</item>
+        <item>Drogas La Rebaja Sede Parque El Poblado\nTelefono:(4) 311 2552\nDireccion: Cl 10 num 43 40\nHorarios: Lunes a Sabado 7:30am a 9:30pm, Domingo 9am a 9pm</item>
+        <item>Farmacia Mental Care \nTelefono:(4) 444 9446\nDireccion: Av El Poblado num 6 26 Local 206\nHorarios: Lunes a Sabado 9am a 6pm, Domingo Cerrado</item>
+        <item>Farmacia Colsubsidio Almacentro Medellin \nTelefono:(4) 262 5633\nDireccion: Av El Poblado num 7 sur 170\nHorario: Lunes a Sabado 10am a 9pm, Domingo 11am a 8pm</item>
+        <item>Farmacia Las Americas\nTelefono:(4) 342 0899\nDireccion: San Fernando Plaza Entrada num 1 51\nHorarios: Todos los Dias 24h</item>
+        <item>Farmacia Pasteur Torre Las Vegas\nTelefono:No Disponible\nDireccion: Av El Poblado num 14S 1\nHorarios: Informacion no Disponible</item>
+        <item>Salud Market El Poblado\nTelefono:(4)444 8404\nDireccion: El Poblado num 9 36\nHorarios: Todos los Dias 10am a 9pm</item>
+        <item>Farmacia Surtifarma\nTelefono:(4)254 6541\nDireccion:Cl 65 num 65 02\nHorarios: Lunes a Viernes 7am a 6pm, Sabado 8am a 2pm, Domingo Cerrado</item>
+        <item>Farmacia Pasteur\nTelefono: 513 4220\nDireccion: Cl 54 num 46 65\nHorarios: Lunes a Sabado 8am a 6pm, Domingo Cerrado</item>
+        <item>Drogueria Todo Drogas\nTelefono:(4) 512 2841\nDireccion: Cl 49 num 47 50\nHorarios: Lunes a Sabado 8am a 9pm, Domingo Cerrado</item>
+        <item>Farmacia ARCO IRIS\nTelelefono:(4) 218 0543\nDireccion: Cra 45 num 55 24\nHorarios: Lunes a Viernes 8am a 6pm, Sabado 8am a 12am, Domingo Cerrado</item>
+        <item>Agora Farmacia Homeopatica\nTelefono:(4) 235 2665\nDireccion: Cl 42b num 63C\nHorarios: Lunes a Viernes 8am a 7:30pm, Sabado 8am a 6pm, Domingo Cerrado</item>
+        <item>Linea Vital FARMACIA\nTelefono:(4) 488 6232\nDireccion: Cra 30 num 102 222\nHorarios: Lunes a Viernes 7am a 7:30pm, Sabado 7am a 4pm, Domingo Cerrado</item>
+        <item>Farmacia BLANCA\nTelelefono:(4) 512 7311\nDireccion: Cl 53 num 46 18\nHorarios: Lunes a Viernes 8am a 7:30pm, Sabado 7am a 9pm, Domingo 8am a 8pm</item>
+        <item>DROGAS LA BASTILLA\nTelefono:(4) 513 3193\nDireccion: Cl 51 num 48 03\nHorarios: Todos los Dias 24h</item>
+        <item>Drogueria RAS\nTelefono:(4) 412 6627\nDireccion: entre Cra 73 y Cra 74, San Juan num 73\nHorarios: Lunes a Viernes 8am a 7:30pm, Sabado 8am a 6pm, Domingo Cerrado</item>
+        <item>Drogas La Rebaja Sede San Javier\nTelefono:(4) 253 1043\nDireccion: Cl 44 num 98 46\nHorarios: Lunes a Sabado 7am a 7pm, Domingo Cerrado</item>
+        <item>Clinica Veterinaria El Poblado\nTelefono:(4) 444 6287\nDireccion:Cl 10A num 4052\nHorarios: Todos los Dias 24h</item>
+        <item>Clinica Veterinaria LA 80\nTelefono:(4) 444 1575\nDireccion: Trasnversal 32b num 74B 5\nHorarios: Todos los Dias 8am a 5pm</item>
+        <item>Veterinaria ROBLEDO\nTelefono:(4) 422 1063\nDireccion: Cl 65 num 8736\nHorarios: Todos los Dias 8pm a 8pm</item>
+        <item>TERRANOVA\nTelefono:(4) 254 9187\nDireccion: Cl 56 num 39 04\nHorarios: Lunes a Viernes 8am a 6pm, Sabado 8am a 12am, Domingo Cerrado</item>
+        <item>Centro Veterinario La 65\nTelefono:(4) 267 2007\nDireccion: Cl 103 num 64D 53\nHorarios: Lunes a Viernes 10am a 9pm, Sabado 8am a 7:30pm, Domingo Cerrado</item>
+        <item>Kanu Sede Santafe\nTelefono: 444 5268\nDireccion: Cra 43A num 7 Sur - 170 Local 2290\nHorarios: Lunes a Sabado 10am a 9pm, Domingo 11am a 8pm</item>
+        <item>Kanu Sede Tesoro\nTelefono: 444 5268\nDireccion: Carrera 25 num 1A Sur 45 nivel 2P o S2 Torre Norte\nHorarios: Lunes a Viernes 9am a 8pm, Sabado 9am a 9pm, Domingo 9am a 8pm</item>
+        <item>Kanu Sede Envigado\nTelefono: 444 5268\nDireccion: Calle 36D num 27D 117 Local 32\nHorarios: Lunes a Sabado 10am a 7:30pm, Domingo 10am a 6pm</item>
+        <item>El hospital de las mascotas\nTelefono: 276 3550\nDireccion: Cl 35S num 40 09\nHorarios: Todos los Dias 24h</item>
+        <item>Only Pet\nTelefono: 276 1278\nDireccion: El Poblado num 32S 37\nHorarios: Lunes a Sabado 9am a 7pm, Domingos Cerrado</item>
+        <item>Zoomania\nTeléfono: 336 1163\nDireccion: Cl 35a sur num 47 67\nHorarios: Lunes a Viernes 24h, Sabados y Domingos Cerrado</item>
+        <item>Centro medico veterinario VIVA\nTelefono: 302 5830\nDireccion: Cra 41 num 36S 16\nHorarios: Lunes a Sabado 8am a 6pm, Domingos 9am a 1pm</item>
+        <item>Mascotas club campestre\nTelefono: 3222206\nDireccion: cl 36sur num 26 46\nHorarios: Todos los dias 7am a 8pm</item>
+        <item>AMA\nTelefono: 212 9712\nDireccion: Cra 49 num 78 36\nHorarios: Lunes a Viernes 8am a 7pm, Sabados y Domingos 8am a 4pm</item>
+        <item>Lymberg Institute\nTelefono: 411 7299\nDireccion: Cra 78 num 47 95\nHorarios: Lunes a Viernes 8am a 7pm, Sabados y Domingos 8am a 5pm</item>
+        <item>EVI Emergencias veterinarias inmediatas\nTelefono: 448 3234\nDireccion: Cra 42 num 16a sur 41\nHorarios: Todos los Dias 24h</item>
+        <item>Colina de itagüi\nTelefono: 255 1953\nDireccion: cr 58 num 79 149 Mall Parques de San Pablo\nHorarios: Lunes a Viernes 9am a 7pm, Sabados 9am a 6pm, Domingo Cerrado</item>
+        <item>Veterinario en casa 24h\nTelefono:444 1575\nDireccion: transv 32b num 74b 5\nHorarios: Todos los Dias 24h</item>
+        <item>Clínica Vida pet\nTelefono:352 1817\nDireccion:Cra 48 Las Vegas num 7 210\nHorarios: Todos los Dias 24h</item>
+
+    </string-array>
+</resources>

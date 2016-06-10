@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/list_row_select"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/test"
+        android:textSize="20dp" />
+    <!---nombre local-->
+    <TextView
+        android:id="@+id/nombre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/nombre"
+        android:layout_below="@+id/id"
+        android:textSize="20dp" />
+    <!--telefono local-->
+    <TextView
+        android:id="@+id/telefono"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18dp"
+        android:text="@string/test"
+        android:layout_below="@+id/nombre"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    <!--direccion-->
+    <TextView
+        android:id="@+id/dirrecion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/telefono"
+        android:layout_marginTop="5dp"
+        android:text="@string/test"
+        android:textSize="18dp" />
+    <!--horarios-->
+    <TextView
+        android:id="@+id/schedules"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/dirrecion"
+        android:text="@string/test"
+        android:layout_marginTop="5dp"
+
+        android:textSize="18dp" />
+
+
+</RelativeLayout>
